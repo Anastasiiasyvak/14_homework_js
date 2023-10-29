@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "firstName": "Anastasiia",
+    "lastName": "Syvak",
+    "status": "active",
+    "friends": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "status": "active",
+    "friends": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Hermione",
+    "lastName": "Granger",
+    "status": "not active",
+    "friends": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Ron",
+    "lastName": "Weasley",
+    "status": "active",
+    "friends": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "firstName": "Oliver",
+    "lastName": "Wood",
+    "status": "active",
+    "friends": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 7,
+    "firstName": "Luna",
+    "lastName": "Lovegood",
+    "status": "not active",
+    "friends": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 8,
+    "firstName": "Cedric",
+    "lastName": "Diggory",
+    "status": "not active",
+    "friends": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "firstName": "Draco",
+    "lastName": "Malfoy",
+    "status": "not active",
+    "friends": [
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "firstName": "Cho",
+    "lastName": "Chang",
+    "status": "active",
+    "friends": [
+      6,
+      5
+    ]
+  },
+  {
+    "id": 11,
+    "firstName": "Oleksiy",
+    "lastName": "Syvak",
+    "status": "active",
+    "friends": [
+      1,
+      2,
+      5
+    ]
+  }
+]
